@@ -1,4 +1,4 @@
-module timer
+module github.com/NautiluX/timer
 
 go 1.16
 
