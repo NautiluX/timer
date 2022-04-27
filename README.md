@@ -5,7 +5,7 @@ Simple command line timer written in golang.
 install with
 
 ```
-go get github.com/NautiluX/timer
+go install github.com/NautiluX/timer@latest
 ```
 
 run
